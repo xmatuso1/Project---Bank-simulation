@@ -7,7 +7,7 @@ Use case diagram of the project:
 
 Class diagram:
 
-![](https://gitlab.fi.muni.cz/xmoravc1/pv168-library/raw/master/classDiagram.png)
+![](https://github.com/xmatuso1/project-bank/blob/master/classDiagram.png)
 
 GUI:
 
