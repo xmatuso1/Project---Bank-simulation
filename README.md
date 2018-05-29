@@ -3,7 +3,7 @@ This project is a simulation of a simple version of internet banking. For each c
 
 Use case diagram of the project:
 
-![](https://gitlab.fi.muni.cz/xmoravc1/pv168-library/raw/master/usecase%20diagram.png)
+![](project-bank/classDiagram.png)
 
 Class diagram:
 
