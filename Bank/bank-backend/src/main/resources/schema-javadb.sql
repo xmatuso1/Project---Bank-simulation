@@ -1,0 +1,5 @@
+CREATE TABLE person (
+  id     INT PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
+  name   VARCHAR(70),
+  born DATE
+);

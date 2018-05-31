@@ -1,0 +1,39 @@
+----------------------------------------------------------------
+Thu May 31 09:39:17 CEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0163-b522-f5e7-00000e2fb9b0 
+on database directory memory:C:\Users\kkata\Desktop\github\project-bank\Bank\bank-backend\accountmgr-test with class loader sun.misc.Launcher$AppClassLoader@6bc7c054 
+Loaded from file:/C:/Users/kkata/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=C:\Users\kkata\Desktop\github\project-bank\Bank\bank-backend
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu May 31 09:39:18 CEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance 207981bd-0163-b522-f5e7-00000e2fb9b0 
+on database directory memory:C:\Users\kkata\Desktop\github\project-bank\Bank\bank-backend\bankmgr-test with class loader sun.misc.Launcher$AppClassLoader@6bc7c054 
+Loaded from file:/C:/Users/kkata/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=C:\Users\kkata\Desktop\github\project-bank\Bank\bank-backend
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu May 31 09:39:20 CEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance 70dec6ce-0163-b522-f5e7-00000e2fb9b0 
+on database directory memory:C:\Users\kkata\Desktop\github\project-bank\Bank\bank-backend\personmgr-test with class loader sun.misc.Launcher$AppClassLoader@6bc7c054 
+Loaded from file:/C:/Users/kkata/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=C:\Users\kkata\Desktop\github\project-bank\Bank\bank-backend
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
